@@ -1,0 +1,5 @@
+Number of missing academic fields: 234
+Number of matches using keywords: 117
+Number of matches using MinHash: 4
+Number of matches using Wiki: 61
+Percentage of filled academic fields: 86.13

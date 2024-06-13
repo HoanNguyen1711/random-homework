@@ -1,0 +1,3 @@
+{"status": 1, "first_name": "Alice", "last_name": "Smith", "email": "alice.smith@example.com", "photo_url": "http://example.com/photo/alice.jpg", "academic_field": "Computer Science", "company_type": "Startup"}
+{"status": 2, "first_name": "Bob", "last_name": "Johnson", "email": "bob.johnson@example.com", "photo_url": "http://example.com/photo/bob.jpg", "academic_field": "Biology", "company_type": "Mid Market"}
+{"status": 1, "first_name": "Carol", "last_name": "Williams", "email": "carol.williams@example.com", "photo_url": "http://example.com/photo/carol.jpg", "academic_field": "Physics", "company_type": "Multi National Company2"}
